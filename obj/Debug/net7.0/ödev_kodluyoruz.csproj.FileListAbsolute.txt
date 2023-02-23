@@ -1,0 +1,15 @@
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.AssemblyInfo.cs
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\ödev_kodluyoruz\bin\Debug\net7.0\ödev_kodluyoruz.exe
+C:\Users\casper\Desktop\ödev_kodluyoruz\bin\Debug\net7.0\ödev_kodluyoruz.deps.json
+C:\Users\casper\Desktop\ödev_kodluyoruz\bin\Debug\net7.0\ödev_kodluyoruz.runtimeconfig.json
+C:\Users\casper\Desktop\ödev_kodluyoruz\bin\Debug\net7.0\ödev_kodluyoruz.dll
+C:\Users\casper\Desktop\ödev_kodluyoruz\bin\Debug\net7.0\ödev_kodluyoruz.pdb
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.dll
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\refint\ödev_kodluyoruz.dll
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.pdb
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ödev_kodluyoruz.genruntimeconfig.cache
+C:\Users\casper\Desktop\ödev_kodluyoruz\obj\Debug\net7.0\ref\ödev_kodluyoruz.dll
